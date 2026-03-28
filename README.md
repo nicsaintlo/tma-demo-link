@@ -2,4 +2,4 @@
 
 Stable GitHub Pages redirect for the current Mortgage Actuary demo URL.
 
-Current target: https://40d35dc4f893d9.lhr.life
+Current target: https://77837eb11551bf.lhr.life
